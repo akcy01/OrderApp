@@ -1,0 +1,61 @@
+﻿@model IEnumerable<OrderProduct> 
+
+
+    <div class = "container">
+        <div class="row">
+            <div class="col-6">
+                 <h2> Order List </h2>
+            </div>
+             <div class="col-6">
+                  
+            </div>
+        </div>
+            <div class = "row">
+               
+                <table class="table table-bordered table-striped my-2">
+                    <thead>
+                        <tr>
+                            <th>
+                                 Order Id
+                            </th>
+                            <th>
+                                 Full Name
+                            </th>
+                            <th>
+                                 Price
+                            </th>
+                            <th>
+                                Status
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        <!--Döngü yapmamız lazım-->
+
+                        @foreach (var orderProduct in Model)
+                        {
+                        <tr>
+                            <td>@orderProduct.Id</td>
+                            <td>@orderProduct.Name</td>
+                            <td>@orderProduct.OrderPrice</td>
+                            <td>@orderProduct.OrderStatus</td>
+                            <td>
+                               <a asp-area="Admin" asp-controller="Order" asp-action="Details" asp-route-id="@orderProduct.Id" class="btn btn-primary"> Details </a>
+
+                               <a onclick="return confirm('Are you sure for remove ?');" asp-area="Admin" asp-controller="Order" asp-action="Delete" asp-route-id="@orderProduct.Id" class="btn btn-danger"> Delete </a>
+                                
+                            </td>
+                        </tr>
+                        
+                        }
+
+                      
+
+                    </tbody>
+
+                </table>
+
+            </div>
+
+    </div>    

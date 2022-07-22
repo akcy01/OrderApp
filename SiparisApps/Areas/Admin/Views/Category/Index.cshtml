@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Category> //Buraya bir category geleceğini söyledik
+
+    <div class = "container">
+        <div class="row">
+            <div class="col-6">
+                 <h2> Category List </h2>
+            </div>
+             <div class="col-6">
+                  <a asp-controller="Category" asp-action="Create" class="btn btn-primary " >
+                    <span> New Category Add </span>
+
+                </a>
+            </div>
+        </div>
+            <div class = "row">
+               
+                <table class="table table-bordered table-striped my-2g">
+                    <thead>
+                        <tr>
+                            <th>
+                                Category Name
+                            </th>
+                            <th>
+
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        <!--Döngü yapmamız lazım-->
+
+                        @foreach (var category in Model)
+                        {
+                        <tr>
+                            <td>@category.Name</td>
+                            <td>
+                               <a asp-controller="Category" asp-action="Edit" asp-route-id="@category.Id"> Update </a>
+
+                               <a asp-controller="Category" asp-action="Delete" asp-route-id="@category.Id"> Delete </a>
+                                
+                            </td>
+                        </tr>
+                        
+                        }
+
+                      
+
+                    </tbody>
+
+                </table>
+
+            </div>
+
+    </div>    
