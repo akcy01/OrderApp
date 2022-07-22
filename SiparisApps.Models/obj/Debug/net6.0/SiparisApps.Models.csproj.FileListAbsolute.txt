@@ -1,0 +1,12 @@
+D:\SiparisApp\SiparisApps.Models\bin\Debug\net6.0\SiparisApps.Models.deps.json
+D:\SiparisApp\SiparisApps.Models\bin\Debug\net6.0\SiparisApps.Models.dll
+D:\SiparisApp\SiparisApps.Models\bin\Debug\net6.0\SiparisApps.Models.pdb
+D:\SiparisApp\SiparisApps.Models\obj\Debug\net6.0\SiparisApps.Models.csproj.AssemblyReference.cache
+D:\SiparisApp\SiparisApps.Models\obj\Debug\net6.0\SiparisApps.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\SiparisApp\SiparisApps.Models\obj\Debug\net6.0\SiparisApps.Models.AssemblyInfoInputs.cache
+D:\SiparisApp\SiparisApps.Models\obj\Debug\net6.0\SiparisApps.Models.AssemblyInfo.cs
+D:\SiparisApp\SiparisApps.Models\obj\Debug\net6.0\SiparisApps.Models.csproj.CoreCompileInputs.cache
+D:\SiparisApp\SiparisApps.Models\obj\Debug\net6.0\SiparisApps.Models.dll
+D:\SiparisApp\SiparisApps.Models\obj\Debug\net6.0\refint\SiparisApps.Models.dll
+D:\SiparisApp\SiparisApps.Models\obj\Debug\net6.0\SiparisApps.Models.pdb
+D:\SiparisApp\SiparisApps.Models\obj\Debug\net6.0\ref\SiparisApps.Models.dll

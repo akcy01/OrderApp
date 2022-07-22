@@ -1,0 +1,12 @@
+D:\SiparisApp\SiparisAppsMVC.SharedTools\bin\Debug\net6.0\SiparisAppsMVC.SharedTools.deps.json
+D:\SiparisApp\SiparisAppsMVC.SharedTools\bin\Debug\net6.0\SiparisAppsMVC.SharedTools.dll
+D:\SiparisApp\SiparisAppsMVC.SharedTools\bin\Debug\net6.0\SiparisAppsMVC.SharedTools.pdb
+D:\SiparisApp\SiparisAppsMVC.SharedTools\obj\Debug\net6.0\SiparisAppsMVC.SharedTools.csproj.AssemblyReference.cache
+D:\SiparisApp\SiparisAppsMVC.SharedTools\obj\Debug\net6.0\SiparisAppsMVC.SharedTools.GeneratedMSBuildEditorConfig.editorconfig
+D:\SiparisApp\SiparisAppsMVC.SharedTools\obj\Debug\net6.0\SiparisAppsMVC.SharedTools.AssemblyInfoInputs.cache
+D:\SiparisApp\SiparisAppsMVC.SharedTools\obj\Debug\net6.0\SiparisAppsMVC.SharedTools.AssemblyInfo.cs
+D:\SiparisApp\SiparisAppsMVC.SharedTools\obj\Debug\net6.0\SiparisAppsMVC.SharedTools.csproj.CoreCompileInputs.cache
+D:\SiparisApp\SiparisAppsMVC.SharedTools\obj\Debug\net6.0\SiparisAppsMVC.SharedTools.dll
+D:\SiparisApp\SiparisAppsMVC.SharedTools\obj\Debug\net6.0\refint\SiparisAppsMVC.SharedTools.dll
+D:\SiparisApp\SiparisAppsMVC.SharedTools\obj\Debug\net6.0\SiparisAppsMVC.SharedTools.pdb
+D:\SiparisApp\SiparisAppsMVC.SharedTools\obj\Debug\net6.0\ref\SiparisAppsMVC.SharedTools.dll
